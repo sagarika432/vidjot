@@ -71,6 +71,7 @@ app.use(passport.session());
 
 app.use(flash());
 
+//
 
 //Global variables
 app.use(function(req,res,next){
